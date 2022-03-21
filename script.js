@@ -1,6 +1,6 @@
 let musicas = [
-  {titulo:'Cacife Clandestino', artista:'Felp22', source:'musicas/y2meta.com - Felp 22 - Melhor Momento (Álbum Completo) (128 kbps).mp3', img:'imagens/2cdf433f606eb589948229dabd194e7f.jpg'},
-  {titulo:'Hip', artista:'Classicas', source:'musicas/y2meta.com - BEST HIPHOP MIX - 50 Cent, Method Man, Ice Cube , Snoop Dogg , The Game and more (128 kbps).mp3', img:'imagens/73d5f976fd4ed8bafcff08ae6ad4bd7a.jpg'}
+  {titulo:'Cacife Clandestino', artista:'Felp22', source:'musicas\y2meta.com - Felp 22 - Melhor Momento (Álbum Completo) (128 kbps) (1).mp3', img:'imagens/2cdf433f606eb589948229dabd194e7f.jpg'},
+  {titulo:'Hip', artista:'Classicas', source:'musicas/y2meta.com - BEST HIPHOP MIX - 50 Cent, Method Man, Ice Cube , Snoop Dogg , The Game and more (128 kbps) (1).mp3', img:'imagens/73d5f976fd4ed8bafcff08ae6ad4bd7a.jpg'}
  
 ];
 
