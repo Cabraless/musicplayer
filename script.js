@@ -30,7 +30,7 @@ musica.addEventListener('timeupdate', atualizarBarra);
 document.querySelector('.anterior').addEventListener('click', () => {
   musicaIndex--; 
   if (musicaIndex < 0){
-      musicaIndex = 3;
+      musicaIndex = 4;
   }
   renderizarMusica(musicaIndex);
 });
